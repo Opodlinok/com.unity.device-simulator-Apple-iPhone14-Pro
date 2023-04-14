@@ -7,4 +7,5 @@ Unless expressly provided otherwise, the Software under this license is made ava
 -----------------------------------------------------------------------------
 
 iPhone 14 Pro copyright © 2023 Apple Inc
+
 The names mentioned here may be trademarks of their respective companies.
