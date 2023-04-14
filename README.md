@@ -3,4 +3,4 @@ A simple .device (Device Info Asset) JSON file with settings for the iPhone 14 P
 
 Device parameters taken from the Apple website.
 
-TO ADD A DEVICE TO YOUR PROJECT, CREATE A FOLDER "DEVICES" IN ANY LOCATION AND PUT THE FILES
+TO ADD A DEVICE TO YOUR PROJECT, CREATE A FOLDER "DEVICES" IN ANY LOCATION AND PUT THE FILES AS IS
